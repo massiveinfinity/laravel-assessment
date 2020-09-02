@@ -27,3 +27,5 @@ With this simple exercise developer shows the skills in basic Laravel things:
 - File management
 - Basic Bootstrap front-end
 - Pagination
+
+=)
